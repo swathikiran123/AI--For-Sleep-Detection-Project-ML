@@ -69,7 +69,7 @@ Implemented and compared multiple ML algorithms:
 - **Languages:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-learn, Seaborn, Scipy, Statsmodels, XGBoost  
 - **Techniques:** Data Cleaning, Feature Engineering, Hyperparameter Tuning, Model Validation  
-- **Deployment:** Streamlit, Hugging Face Spaces  
+- **Deployment:** https://huggingface.co/spaces/Swathikiran/sleep_detection
 
 ---
 
