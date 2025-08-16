@@ -81,5 +81,5 @@ The project successfully demonstrates how **machine learning can classify sleep 
 ## 📌 How to Run  
 1. Clone the repository  
    ```bash
-   git clone https://github.com/yourusername/AI-Sleep-Detection.git
+   git clone https://github.com/https://github.com/swathikiran123
    cd AI-Sleep-Detection
